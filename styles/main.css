@@ -1,0 +1,95 @@
+body {
+  box-sizing: border-box;
+  background-color: #A9A9A9;
+  padding-left: 70px;
+  font-family: sans-serif;
+}
+.first-div{
+  height: 250px;
+  width: 515px;
+  background-color: #F6F5F5;
+  position: relative;
+  border-radius: 1%;
+  padding-left: 20px;
+}
+
+.first-div > h1 {
+  padding-top: 30px;
+
+  margin-bottom: 0;
+}
+
+button {
+  background-color: #296088;
+  color: #FDF0F5;
+  width: 80px;
+  height: 40px;
+}
+
+.first-div > div {
+  background: #EB515C;
+  color: #FDF0F5;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 115px;
+  height: 50px;
+  text-align: center;
+  margin: auto;
+}
+
+.second-div {
+height: 400px;
+width: 515px;
+background-color: #F6F5F5;
+position: relative;
+padding-left: 20px;
+border-radius: 1%;
+
+}
+
+.second-div > h1 {
+  padding-top: 150px;
+}
+
+.second-div > div {
+  background: #EB515C;
+  color: #FDF0F5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 115px;
+  height: 50px;
+  text-align: center;
+}
+
+.second-div > p {
+  padding-right: 40px;
+}
+
+.third-div {
+height: 200px;
+width: 515px;
+background-color: #F6F5F5;
+position: relative;
+padding-left: 20px;
+border-radius: 1%;
+}
+
+.third-div > h1 {
+  padding-top: 30px;
+
+  margin-bottom: 0;
+}
+
+.third-div > div {
+  background: #EB515C;
+  color: #FDF0F5;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 115px;
+  height: 50px;
+  text-align: center;
+  margin: auto;
+}
